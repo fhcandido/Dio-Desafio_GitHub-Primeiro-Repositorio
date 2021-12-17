@@ -1,0 +1,11 @@
+1- Logica de programção Essencial
+	Foi apresentado conceitos basicos de logica de programção bem como exemplos praticos 
+	de codigos utilizando o Portugol
+
+2- Projetos ágeis com Scrum
+	Foi apresentado como funciona o Scrum, bem como as caracteristicas basicas
+	para o desenvolvimento de projetos ageis.
+
+3- Introdução ao Git e ao GitHub
+	Foi apresentado como utilizar o git, comandos basicos para dar inicio 
+	aos primeiros passos para utilização do github 
